@@ -31,7 +31,7 @@ export const data=[
         id:4,
         name:"Formulário | Projeto React",
         image:Formulario,
-        github:"https://github.com/eduardohornke/react-multistep",
+        github:"https://github.com/eduardohornke/multistep-react",
         live:"https://react-multistep.vercel.app/",
     },
     {
