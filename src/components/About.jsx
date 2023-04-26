@@ -17,7 +17,7 @@ const About = () => {
               <p>Oi. Sou o Eduardo, prazer em conhecê-lo.</p>
             </div>
             <div>
-              <p>Sou Estudante, 26 anos, busco minha primeira oportunidade de trabalhar junto a um time colaborativo
+              <p>Sou Estudante, 26 anos, busco uma oportunidade de trabalhar junto a um time colaborativo
               e desafiador onde eu possa desenvolver a minha carreira e impactar a vida
               de milhares de usuários fornecendo soluções tecnológicas para os mais diversos problemas.
 </p>  
